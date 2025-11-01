@@ -1,44 +1,31 @@
-# 💻 Project Name
+# 💬 WhatsApp Clone
 
-A brief one-liner that describes your project and its purpose.
-
-> Example: A fast, lightweight web app that visualizes sorting algorithms in 3D.
+A simple WhatsApp-like chat application built using **React**, **Node.js**, **Express**, and **Socket.io** for real-time messaging.
 
 ---
 
-## 🚀 Demo
-
-Live demo: [https://yourprojectdemo.com](https://yourprojectdemo.com)
-
-Screenshots:
-
-![App Screenshot](assets/screenshot.png)
-
----
-
-## 🧠 Features
-
-- ✅ Interactive UI with real-time updates
-- 📊 Visualizes multiple algorithms (Bubble, Merge, Quick)
-- 🎨 Customizable themes and speed controls
-- 📦 Lightweight and responsive
+## 🚀 Features
+- 🔥 Real-time chat using WebSockets  
+- 👥 One-to-one and group chat support  
+- 🧠 Message status (sent, delivered, seen)  
+- 📸 Image & file sharing  
+- 🕒 Last seen and typing indicators  
+- 🧩 Clean WhatsApp-style UI (TailwindCSS / CSS)  
+- 🔐 JWT authentication  
 
 ---
 
 ## 🛠️ Tech Stack
-
-**Frontend:** React, Three.js  
-**Backend:** Node.js, Express  
-**Database:** MongoDB  
-**Other Tools:** Docker, GitHub Actions, ESLint
+**Frontend:** React, TailwindCSS  
+**Backend:** Node.js, Express.js, Socket.io  
+**Database:** MongoDB / Firebase  
+**Auth:** JWT  
 
 ---
 
-## 📦 Installation
+## ⚙️ Installation & Setup
 
-Clone the repo and install dependencies:
-
+### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/yourusername/project-name.git
-cd project-name
-npm install
+git clone https://github.com/<your-username>/whatsapp-clone.git
+cd whatsapp-clone
