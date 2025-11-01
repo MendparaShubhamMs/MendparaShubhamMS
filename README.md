@@ -1,38 +1,48 @@
+🔒 Unlock my profile:  
+👉 [Complete the Hello World challenge here](https://your-username.github.io/challenge)
 # 👋 Hi, I'm Mendpara Shubham
 
-### 💻 About Me
-I'm a passionate developer who loves building modern web applications and exploring new technologies.  
-I enjoy learning, experimenting with ideas, and contributing to open-source projects.
-
-- 🌱 Currently learning **React**, **FastAPI**, and **Machine Learning**
-- 💬 Ask me about **Python**, **JavaScript**, **APIs**, and **Web Development**
-- 🚀 Working on projects that combine **AI** and **web tech**
-- 🎯 Goal: Become a full-stack developer and AI engineer
+Welcome to my GitHub profile!  
+I'm a passionate **developer** who loves exploring new technologies, solving problems, and creating meaningful projects.
 
 ---
 
-### 🧰 Tech Stack
-**Languages:**  
-`Python` | `JavaScript` | `C++` | `HTML` | `CSS`
+## 🚀 About Me
 
-**Frameworks & Libraries:**  
-`React` | `FastAPI` | `Node.js` | `Express.js` | `Tailwind CSS`
-
-**Tools:**  
-`Git` | `GitHub` | `VS Code` | `Postman` | `Docker`
+- 💻 I enjoy building **modern web applications** and **learning new frameworks**.  
+- 🌱 Currently focusing on **[your current learning goal — e.g., React.js / Next.js / Python / AI & ML]**.  
+- 🔍 Interested in **open-source contributions** and **tech innovation**.  
+- 🎯 My goal: Keep learning, keep building, and keep improving.  
 
 ---
 
-### 📈 GitHub Stats
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=MendparaShubham&show_icons=true&theme=radical)
+## 🛠️ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MendparaShubham&layout=compact&theme=radical)
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Frontend** | HTML, CSS, JavaScript, React |
+| **Backend** | Node.js, Express, Python |
+| **Database** | MongoDB, MySQL |
+| **Tools** | Git, GitHub, VS Code, Docker |
+| **Other** | Firebase, APIs, Linux |
+
+*(Update this list to match your actual stack!)*
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mendpara-shubham)  
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:mendparashubham@gmail.com)
+## 📊 GitHub Stats
+
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mendpara-Shubham&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendpara-Shubham&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
 ---
 
