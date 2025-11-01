@@ -1,60 +1,39 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Your Name | Portfolio</title>
-  <link rel="stylesheet" href="style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
-</head>
-<body>
-  <nav>
-    <h1>&lt;YourName /&gt;</h1>
-    <ul>
-      <li><a href="#about">About</a></li>
-      <li><a href="#projects">Projects</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
-  </nav>
+# 👋 Hi, I'm Mendpara Shubham
 
-  <header class="hero">
-    <h2>Hello, I'm <span>Your Name</span></h2>
-    <p>Computer Science Major | Developer | Tech Explorer</p>
-  </header>
+### 💻 About Me
+I'm a passionate developer who loves building modern web applications and exploring new technologies.  
+I enjoy learning, experimenting with ideas, and contributing to open-source projects.
 
-  <section id="about">
-    <h3>🧠 About Me</h3>
-    <p>
-      I'm a passionate CS student who loves building web apps, exploring AI, and solving algorithmic problems.
-      Currently learning Rust and diving into machine learning.
-    </p>
-  </section>
+- 🌱 Currently learning **React**, **FastAPI**, and **Machine Learning**
+- 💬 Ask me about **Python**, **JavaScript**, **APIs**, and **Web Development**
+- 🚀 Working on projects that combine **AI** and **web tech**
+- 🎯 Goal: Become a full-stack developer and AI engineer
 
-  <section id="projects">
-    <h3>🚀 Projects</h3>
-    <div class="project-card">
-      <h4>NeuralNet 3D</h4>
-      <p>Visualizes neural networks in 3D space using Three.js and PyTorch.</p>
-    </div>
-    <div class="project-card">
-      <h4>AlgoViz</h4>
-      <p>Interactive sorting algorithm visualizer built with JavaScript and Canvas.</p>
-    </div>
-    <div class="project-card">
-      <h4>HabitTrackr</h4>
-      <p>Mobile app for habit tracking using React Native and Firebase.</p>
-    </div>
-  </section>
+---
 
-  <section id="contact">
-    <h3>📫 Contact Me</h3>
-    <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-    <p>GitHub: <a href="https://github.com/yourusername">yourusername</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile">yourprofile</a></p>
-  </section>
+### 🧰 Tech Stack
+**Languages:**  
+`Python` | `JavaScript` | `C++` | `HTML` | `CSS`
 
-  <footer>
-    <p>© 2025 Your Name. Built with 💙 and HTML/CSS.</p>
-  </footer>
-</body>
-</html>
+**Frameworks & Libraries:**  
+`React` | `FastAPI` | `Node.js` | `Express.js` | `Tailwind CSS`
+
+**Tools:**  
+`Git` | `GitHub` | `VS Code` | `Postman` | `Docker`
+
+---
+
+### 📈 GitHub Stats
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=MendparaShubham&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MendparaShubham&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mendpara-shubham)  
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:mendparashubham@gmail.com)
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
