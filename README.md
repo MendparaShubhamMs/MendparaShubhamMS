@@ -15,12 +15,6 @@ Always learning, always curious.
 
 ---
 
-### 🔒 Access Challenge
-Want to unlock more about me?  
-Try this:
-
-```c
-#include <stdio.h>
 
 
 ### 🛠️ Tech Stack
