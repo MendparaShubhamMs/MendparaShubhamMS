@@ -140,7 +140,7 @@
 
 <div align="center">
 
-### 💭 Dev Quote of the Day
+### 💭 Dev Quote of the Day :
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
